@@ -1,0 +1,16 @@
+.carousel-control-prev-custom {
+    left: 92%;
+}
+.carousel-control-prev-custom, .carousel-control-next-custom {
+    top: 86%;
+    width: 5%; 
+}
+.carousel-indicators-custom [data-bs-target] {
+    width: 15px;
+    height: 15px;
+}
+.carousel-indicators-custom {
+    bottom: 60%;
+    left: -10%;
+    display: block;
+ 
